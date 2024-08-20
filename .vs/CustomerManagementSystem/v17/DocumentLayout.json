@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\My Learning\\dot net core\\Assignment\\CustomerManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA248397-284E-4762-9B81-36EA3B8D232F}|CustomerManagementSystem\\CustomerManagementSystem.csproj|c:\\my learning\\dot net core\\assignment\\customermanagementsystem\\customermanagementsystem\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA248397-284E-4762-9B81-36EA3B8D232F}|CustomerManagementSystem\\CustomerManagementSystem.csproj|solutionrelative:customermanagementsystem\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13E04D04-AE1E-4AE1-BD71-9125BBFFDC5A}|DataAccessLayer\\DataAccessLayer.csproj|c:\\my learning\\dot net core\\assignment\\customermanagementsystem\\dataaccesslayer\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13E04D04-AE1E-4AE1-BD71-9125BBFFDC5A}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13E04D04-AE1E-4AE1-BD71-9125BBFFDC5A}|DataAccessLayer\\DataAccessLayer.csproj|c:\\my learning\\dot net core\\assignment\\customermanagementsystem\\dataaccesslayer\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13E04D04-AE1E-4AE1-BD71-9125BBFFDC5A}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0121394-4530-4BF4-B430-0042A86DB1E7}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\my learning\\dot net core\\assignment\\customermanagementsystem\\businesslogiclayer\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0121394-4530-4BF4-B430-0042A86DB1E7}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA248397-284E-4762-9B81-36EA3B8D232F}|CustomerManagementSystem\\CustomerManagementSystem.csproj|c:\\my learning\\dot net core\\assignment\\customermanagementsystem\\customermanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA248397-284E-4762-9B81-36EA3B8D232F}|CustomerManagementSystem\\CustomerManagementSystem.csproj|solutionrelative:customermanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\My Learning\\dot net core\\Assignment\\CustomerManagementSystem\\DataAccessLayer\\Repository\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\CustomerRepository.cs",
+              "ToolTip": "C:\\My Learning\\dot net core\\Assignment\\CustomerManagementSystem\\DataAccessLayer\\Repository\\CustomerRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repository\\CustomerRepository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T04:05:32.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\My Learning\\dot net core\\Assignment\\CustomerManagementSystem\\BusinessLogicLayer\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\My Learning\\dot net core\\Assignment\\CustomerManagementSystem\\BusinessLogicLayer\\Services\\CustomerService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Services\\CustomerService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T04:05:01.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\My Learning\\dot net core\\Assignment\\CustomerManagementSystem\\CustomerManagementSystem\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "CustomerManagementSystem\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\My Learning\\dot net core\\Assignment\\CustomerManagementSystem\\CustomerManagementSystem\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "CustomerManagementSystem\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T03:58:34.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\My Learning\\dot net core\\Assignment\\CustomerManagementSystem\\DataAccessLayer\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Models\\Customer.cs",
+              "ToolTip": "C:\\My Learning\\dot net core\\Assignment\\CustomerManagementSystem\\DataAccessLayer\\Models\\Customer.cs",
+              "RelativeToolTip": "DataAccessLayer\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T14:16:15.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\My Learning\\dot net core\\Assignment\\CustomerManagementSystem\\CustomerManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "CustomerManagementSystem\\Program.cs",
+              "ToolTip": "C:\\My Learning\\dot net core\\Assignment\\CustomerManagementSystem\\CustomerManagementSystem\\Program.cs",
+              "RelativeToolTip": "CustomerManagementSystem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T14:11:05.457Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
